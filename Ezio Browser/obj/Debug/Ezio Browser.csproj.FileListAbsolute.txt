@@ -1,0 +1,11 @@
+C:\Users\Lucas\Documents\ezio browser\Ezio Browser\Ezio Browser\bin\Debug\Ezio Browser.exe.config
+C:\Users\Lucas\Documents\ezio browser\Ezio Browser\Ezio Browser\bin\Debug\Ezio Browser.exe
+C:\Users\Lucas\Documents\ezio browser\Ezio Browser\Ezio Browser\bin\Debug\Ezio Browser.pdb
+C:\Users\Lucas\Documents\ezio browser\Ezio Browser\Ezio Browser\obj\Debug\Ezio Browser.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\ezio browser\Ezio Browser\Ezio Browser\obj\Debug\Ezio Browser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\Documents\ezio browser\Ezio Browser\Ezio Browser\obj\Debug\Ezio_Browser.MainForm.resources
+C:\Users\Lucas\Documents\ezio browser\Ezio Browser\Ezio Browser\obj\Debug\Ezio_Browser.Properties.Resources.resources
+C:\Users\Lucas\Documents\ezio browser\Ezio Browser\Ezio Browser\obj\Debug\Ezio Browser.csproj.GenerateResource.cache
+C:\Users\Lucas\Documents\ezio browser\Ezio Browser\Ezio Browser\obj\Debug\Ezio Browser.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\ezio browser\Ezio Browser\Ezio Browser\obj\Debug\Ezio Browser.exe
+C:\Users\Lucas\Documents\ezio browser\Ezio Browser\Ezio Browser\obj\Debug\Ezio Browser.pdb
